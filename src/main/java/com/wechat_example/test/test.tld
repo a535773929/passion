@@ -1,0 +1,6 @@
+
+
+{"button":
+        [{"name":"一级菜单","type":"click"},
+        {"name":"百度","type":"view","url":"www.baidu.com"},
+        {"name":"有子菜单","sub_button":[{"name":"京东","type":"view","url":"www.jd.com"},{"name":"二级菜单","type":"click"}]}]}
